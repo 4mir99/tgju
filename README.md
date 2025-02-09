@@ -1,4 +1,4 @@
 pip install requests beautifulsoup4
 
 to run:
-python tgju.py
+      python tgju.py
